@@ -1,0 +1,3 @@
+[submodule "photobooth2"]
+	path = photoswap
+	url = https://github.com/jacobSingh/photoswap.git
